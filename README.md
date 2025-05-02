@@ -111,4 +111,4 @@ Com base nesses indicadores, recomenda-se a venda da Loja 4.
 Este projeto simula de forma prática o papel de um analista de dados na tomada de decisões estratégicas com base em dados reais.
 
 📚 Desafio desenvolvido como parte do programa Oracle Next Education - Alura.
-👤 Autor: [Seu Nome Aqui]
+👤 Autor: Arthur Giovanni
